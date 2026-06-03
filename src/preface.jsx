@@ -176,7 +176,7 @@ sustainable development in Nigeria and beyond.
           <p className="text-base sm:text-lg text-gray-700 leading-relaxed">
             <strong>Professor Musa I. Fodio</strong><br/>
             Editor-in-Chief<br/>
-            ANUK Public Sector Accounting & Finance Journal(AJoT)<br/>
+ANUK Public Sector Accounting & Finance Journal<br/>
             ANAN UNIVERSITY BUSINESS SCHOOL<br/>
             14 Road, Off 1st Avenue<br/>
             Gwarinpa, -Abuja-FCT<br/>

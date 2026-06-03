@@ -1,21 +1,14 @@
-import logo from './ciota.svg';
+import ANUK from './ANUK.png';
 
 const Intro = () => {
   return (
     <div className="px-4">  
       {/* Logo Section */}
-      <div className="flex justify-center">
-        <img 
-          src={logo} 
-          className="h-24 sm:h-32 md:h-40 w-auto" 
-          alt="Logo" 
-        />
-      </div>
       
       {/* Main Content Section */}
       <div className="bg-blue-800 text-white p-4 sm:p-6 rounded-sm mx-auto max-w-6xl">
         <h1 className="text-xl sm:text-2xl md:text-3xl font-bold text-center mb-2">
-          THE CHARTERED INSTITUTE OF TRANSPORT ADMINISTRATION OF NIGERIA
+          ANUK PUBLIC SECTOR ACCOUNTING & FINANCE JOURNAL
         </h1>
         <h1 className="text-lg sm:text-xl md:text-2xl text-center font-semibold mb-3">
           {"{CIOTA}"}
@@ -37,10 +30,10 @@ const Intro = () => {
       <div className="text-center mt-6 sm:mt-8">
         <br />
         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold">
-          African Journal of Transport
+          ANUK
         </h1>
         <h1 className="font-bold text-xl sm:text-2xl md:text-3xl mt-2">
-          (2025)
+        
         </h1>
       </div>
     </div>

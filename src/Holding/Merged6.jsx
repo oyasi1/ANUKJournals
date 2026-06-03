@@ -6,8 +6,8 @@ const Merged6 = () => {
   const [showPreview, setShowPreview] = useState(false);
   
   // PDF file in public folder
-  const pdfUrl = '/ilovepdf_merged 5.pdf';
-  const fileName = 'Evaluating the Significant Drivers of Domestic Airline Failures in Nigeria: An Analytical Evidence.pdf';
+  const pdfUrl = '/ANUK-pages-5_smallpdf.pdf';
+  const fileName = 'EFFECT OF INTERNATIONAL PUBLIC SECTOR ACCOUNTING STANDARDS ADOPTION ON FINANCIAL REPORTING QUALITY IN LAGOS STATE MINISTRIES..pdf';
 
   const handleDownload = () => {
     setIsDownloading(true);
@@ -46,17 +46,18 @@ const Merged6 = () => {
           {/* Content */}
           <div className="mt-4 text-center">
             <h2 className="text-xl sm:text-2xl font-bold text-gray-800">
-              Evaluating the Significant Drivers of Domestic Airline Failures in Nigeria: An Analytical Evidence.
+              EFFECT OF INTERNATIONAL PUBLIC SECTOR ACCOUNTING STANDARDS ADOPTION ON FINANCIAL REPORTING QUALITY IN LAGOS STATE MINISTRIES.
             </h2>
-            <h4>Vol. 1, No. 1, June 2024</h4>
+            <h4>Vol. 1, No. 1, September 2025</h4>
 
             <p className="mt-2 text-gray-600 text-sm sm:text-base">
-              Authors: O. B. Sidiq, M. S. Stephens, C. U. Akpudo and F. O. Kanyio.
+              Authors: JOHN ACHUA, ph.d, and JOSEPH FEMI ADEBISI.
             </p>
             <br />
-            <h4> <h4 className= "font-bold">Introduction:</h4> The historical trajectory of air travel in Nigeria dates back to the 1925 landing of an aircraft
-in Kano from Egypt, which has shaped the aviation sector's role in the global and Nigerian
-economies......
+            <h4> <h4 className= "font-bold">Introduction:</h4> The Lagos State Government's desire for continuous improvement in governance, including the
+administration of public resources,the adoption of global best practices, and in response to the
+shortcomings of the cash basis accounting system led to the adoption of the International Public Sector
+Accounting Standard IPSAS.......
 </h4>
           </div>
           

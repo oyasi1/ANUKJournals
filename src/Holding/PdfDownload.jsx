@@ -5,8 +5,8 @@ const PdfDownload = () => {
   const [showPreview, setShowPreview] = useState(false);
   
   // PDF file in public folder
-  const pdfUrl = '/ilovepdf_merged 1.pdf';
-  const fileName = 'Perceived Satisfaction with Quality of Travel Modes for Tourism Activities in Lagos State.pdf';
+  const pdfUrl = '/ANUK-pages-9_smallpdf.pdf';
+  const fileName = 'TREASURY SINGLE ACCOUNT: IMPLEMENTATION, PROSPECT AND CHALLENGES IN JIGAWA STATE OF NIGERIA.pdf';
 
   const handleDownload = () => {
     setIsDownloading(true);
@@ -45,17 +45,16 @@ const PdfDownload = () => {
           {/* Content */}
           <div className="mt-4 text-center">
             <h2 className="text-xl sm:text-2xl font-bold text-gray-800">
-              Perceived Satisfaction with Quality of Travel Modes for Tourism Activities in Lagos State.
+              TREASURY SINGLE ACCOUNT: IMPLEMENTATION, PROSPECT AND CHALLENGES IN JIGAWA STATE OF NIGERIA.
             </h2>
-            <h4>Vol. 1, No. 1, June 2024.</h4>
+            <h4>Vol. 1, No. 1, September 2025.</h4>
            <p className="mt-2 text-gray-600 text-sm sm:text-base">
-              Authors: U. O. Salisu, S. G. Odewumi and F. I. AbdulAzeez.
+              Authors: ABDULHAYATU SARKI SULEIMAN.
             </p>
             <br />
-            <h4> <h4 className= "font-bold">Introduction:</h4> Cities and every other community worldwide rely on transportation systems to perform
-mobility and accessibility functions such as moving materials for manufacturing goods,
-distributing finished goods to consumers, locating and connecting places of work, market,
-business activities, leisure, religion, medical activities, and home...
+            <h4> <h4 className= "font-bold">Introduction:</h4> The paper examined the implementation and challenges of adopting Treasury Single Account (TSA) in
+Jigawa State-Nigeria. Data were collected from interviews conducted with relevant TSA stakeholders.
+The data was analysed using descriptive method....
 </h4>
           </div>
           

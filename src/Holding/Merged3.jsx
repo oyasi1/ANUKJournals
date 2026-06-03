@@ -6,8 +6,8 @@ const Merged3 = () => {
   const [showPreview, setShowPreview] = useState(false);
   
   // PDF file in public folder
-  const pdfUrl = '/ilovepdf_merged 2.pdf';
-  const fileName = 'Developing Strategies for Managing Electoral Logistics in Nigeria.pdf';
+  const pdfUrl = '/ANUK-pages-2_smallpdf.pdf';
+  const fileName = ' Effect Of Taxation On Income Distribution In Nigeria.pdf';
 
   const handleDownload = () => {
     setIsDownloading(true);
@@ -46,16 +46,19 @@ const Merged3 = () => {
           {/* Content */}
           <div className="mt-4 text-center">
             <h2 className="text-xl sm:text-2xl font-bold text-gray-800">
-              Developing Strategies for Managing Electoral Logistics in Nigeria.
+               Effect Of Taxation On Income Distribution In Nigeria.
             </h2>
-            <h4>Vol. 1, No. 1, June 2024</h4>
+            <h4>Vol. 1, No. 1, September 2025</h4>
 
             <p className="mt-2 text-gray-600 text-sm sm:text-base">
-              Authors: I. F. Abdul-Azeez, S. G. Odewumi, C. O. Asenime and B. O. Kumolu Johnson
+              Authors: Fatima Talbot and Tamunonimim A. Ngerebo-A, 
             </p>
             <br />
-            <h4> <h4 className= "font-bold">Introduction:</h4> Elections are the cornerstone of democracy and pivotal to the quality of a country’s governance and
-democratic development......
+            <h4> <h4 className= "font-bold">Introduction:</h4> This study investigated the effect of taxation (proxied by company income tax, petroleum profit and
+value added tax) on income distribution (proxied by gini coefficient) in Nigeria. Secondary data were
+obtained from Central Bank Statistical Bulletin, Federal Inland Revenue Service Reports and World
+Bank Reports (various years). The study adopted the use of ordinary least square regression to test the
+hypotheses formulated for the study with the aid of E-view 13 econometric statistical software.......
 </h4>
           </div>
           

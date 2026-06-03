@@ -6,9 +6,8 @@ const Merged8 = () => {
   const [showPreview, setShowPreview] = useState(false);
   
   // PDF file in public folder
-  const pdfUrl = '/ilovepdf_merged 7.pdf';
-  const fileName = 'Driver Behaviour in Developing Countries: Evidence from Modelling Anger and Aggressive Performance of Nigerian Drivers on Inter-city Trips.pdf';
-
+  const pdfUrl = '/ANUK-pages-7_smallpdf.pdf';
+  const fileName = 'EFFECT OF TAX GAPS ON TAX INCLUSIVENESS FOR SUSTAINABILITY IN NIGERIA'
   const handleDownload = () => {
     setIsDownloading(true);
     
@@ -46,19 +45,18 @@ const Merged8 = () => {
           {/* Content */}
           <div className="mt-4 text-center">
             <h2 className="text-xl sm:text-2xl font-bold text-gray-800">
-              Driver Behaviour in Developing Countries: Evidence from Modelling Anger and Aggressive Performance of Nigerian Drivers on Inter-city Trips.
+                EFFECT OF TAX GAPS ON TAX INCLUSIVENESS FOR SUSTAINABILITY IN NIGERIA.
             </h2>
-            <h4>Vol. 1, No. 1, June 2024</h4>
+            <h4>Vol. 1, No. 1, September 2025</h4>
 
             <p className="mt-2 text-gray-600 text-sm sm:text-base">
-              Authors: I. C. Ogwude, U. S. Ogwude and S. B. Balogun.
+              Authors: SIMON NWANMAGHYI KATO.
             </p>
             <br />
-            <h4> <h4 className= "font-bold">Introduction:</h4> Road crash rates in developing countries are about 3-4 times higher than in Western
-Europe and North America. The severity of road crashes, measured in terms of the number
-of persons killed in every 100 crashes, has remained high over the years, representing a
-gloomy picture of transport usage. Over 80 per cent of all crashes can be attributed to
-human causes.....
+            <h4> <h4 className= "font-bold">Introduction:</h4> Tax gap is the difference between the total amount of taxes collected and the total amount of revenues
+that would be collected under full compliance. This study aimed at ascertaining the effect of tax gaps
+on the tax inclusiveness in Nigeria with the specific objective of examining such effect on the tax
+inclusiveness for sustainable development in Nigeria.....
 </h4>
           </div>
           

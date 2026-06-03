@@ -6,8 +6,8 @@ const Merged5 = () => {
   const [showPreview, setShowPreview] = useState(false);
   
   // PDF file in public folder
-  const pdfUrl = '/ilovepdf_merged 4.pdf';
-  const fileName = 'Service Quality, Willingness-to-Repurchase, and the Mediating Functions of Satisfaction and Value-for-Money: Study of Domestic Airlines in Nigeria.pdf';
+  const pdfUrl = '/ANUK-pages-4_smallpdf.pdf';
+  const fileName = 'EFFECT OF TETFUND INTERVENTION ON RESEARCH AND DEVELOPMENT IN NIGERIAN TERTIARY INSTITUTIONS.pdf';
 
   const handleDownload = () => {
     setIsDownloading(true);
@@ -46,18 +46,19 @@ const Merged5 = () => {
           {/* Content */}
           <div className="mt-4 text-center">
             <h2 className="text-xl sm:text-2xl font-bold text-gray-800">
-              Service Quality, Willingness-to-Repurchase, and the Mediating Functions of Satisfaction and Value-for-Money: Study of Domestic Airlines in Nigeria.
+              EFFECT OF TETFUND INTERVENTION ON RESEARCH AND DEVELOPMENT IN NIGERIAN TERTIARY INSTITUTIONS.
             </h2>
-            <h4>Vol. 1, No. 1, June 2024</h4>
+            <h4>Vol. 1, No. 1, September 2025</h4>
 
             <p className="mt-2 text-gray-600 text-sm sm:text-base">
-              Authors: A. O. Adeniran, M. S. Stephens, and I. Njoku.
+              Authors: IHEMELANDU CONSTANCE OBIAGER.
             </p>
             <br />
-            <h4> <h4 className= "font-bold">Introduction:</h4> Nigeria’s airline market is a market with a population of 200 million, shared by 23 domestic
-airlines (NCAA, 2022) such as Aero Contractors, Air Peace, Allied Air, Arik Air, Azman Air,
-Dana Air, First Nation, Green Africa, Ibom Air, Kabo Air, Max Air, Overland Airways,
-United Air among others.....
+            <h4> <h4 className= "font-bold">Introduction:</h4> This study examines the effect of TETFUND interventions on research and development (R&D) in
+Nigerian tertiary institutions, focusing on research grant allocations, academic staff participation in
+TETFUND-funded training, and the availability of research infrastructure. Using a sample of 160
+academic staff across universities, polytechnics, and colleges of education, data were analyzed using
+descriptive statistics,.....
 </h4>
           </div>
           

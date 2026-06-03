@@ -4,28 +4,35 @@ const Preface = () => {
       {/* Main Title */}
       <div className="text-center mb-8">
         <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-blue-900 mb-4 leading-tight">
-          African Journal of Transport (AJoT) - Official Journal of the Chartered Institute of Transport Administration of Nigeria (CIoTA)
+          EDITORIAL
         </h1>
       </div>
 
       {/* Introduction Section */}
       <section className="mb-8">
         <p className="text-base sm:text-lg text-gray-700 leading-relaxed text-justify">
-          The African Journal of Transport (AJoT) is the official peer-reviewed publication of the Chartered Institute of Transport Administration of Nigeria (CIoTA). The Institute was originally established in Great Britain, United Kingdom in 1944 as a professional body dedicated to promoting education to serve the emerging requirements of transport administration, and was incorporated in Nigeria in September 1986 under the Land Perpetual Succession Act Cap 98. 
-          The Chartered Institute of Transport Administration of Nigeria (CIoTA) received its legislative backing when President Muhammadu Buhari signed its establishment bill into law in June 2019. The Act itself was passed by the National Assembly and enacted on May 22nd as (Act No. 27 of 2019.
-          This legislative action transformed the institute from a corporate body incorporated in 1986 into the prime professional institute for the transport sector in Nigeria. The Act charges CIoTA with advancing the study, training, and practice of transport management and administration in the country. CIoTA has the statutory mandate of training, certification, and setting standards for transport professionals in Nigeria.
-          CIoTA Nigeria has grown to become the premier chartered professional transport body in Nigeria, providing training, membership, and certification of transport professionals across all modes of transportation. The Institute plays a critical role in producing transport professionals who drive the economy from the point of view of transport and logistics, with the government relying on CIoTA for guidance on transportation policy and implementation.
+          It is with great pleasure and a deep sense of academic fulfillment that we present the maiden edition of
+the Public Sector Accounting and Finance Journal (PSAFJ), published by ANAN University, Kwall.
+This inaugural issue marks a significant milestone in the University’s commitment to advancing
+scholarship, policy, and practice in the field of public sector accounting, finance, and governance..
+        </p>
+       < p className="text-base sm:text-lg text-gray-700 leading-relaxed text-justify">
+          In an era when nations are striving for transparency, accountability, and fiscal sustainability, the role of
+public sector accounting and finance has never been more critical. The journal is therefore conceived as
+a platform for intellectual engagement, rigorous research, and policy discourse that contribute
+meaningfully to the strengthening of public financial management systems, good governance, and
+sustainable development in Nigeria and beyond.
         </p>
       </section>
 
-      {/* Vision Section */}
+      {/* Vision Section 
       <section className="mb-8">
         <p className="text-base sm:text-lg text-gray-700 leading-relaxed text-justify">
           The vision of AJoT is to become the leading African journal in transport and logistics publications, promoting professionalism, research, and innovation in transport administration. AJoT is a peer-reviewed journal focusing on multimodal transport systems, logistics, supply chain management, transport policy, infrastructure, and sustainable mobility solutions. The journal welcomes papers from researchers, practitioners, and policymakers across all transport modes: road, aviation, rail, maritime, and pipeline transportation. AJoT is published in English, both in print (hard copy) and online, with two issues per year in March and September.
         </p>
       </section>
-
-      {/* Aims and Objectives */}
+*/}
+      {/* Aims and Objectives 
       <section className="mb-8 text-center">
         <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-blue-900 mb-6">Aims and Objectives</h2>
         <ol className="space-y-4 max-w-3xl mx-auto text-left">
@@ -42,9 +49,9 @@ const Preface = () => {
             Critical review articles on transport policies, administration, and regulatory frameworks, including how governments and organizations in public-private sectors in Africa conceptualize digitization of operations in serving stakeholders in logistics and transportation.
           </li>
         </ol>
-      </section>
+      </section> */}
 
-      {/* Editorial Policies */}
+      {/* Editorial Policies 
       <section className="mb-8">
         <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-blue-900 mb-6 text-center">Editorial Policies</h2>
         
@@ -58,26 +65,26 @@ const Preface = () => {
             Papers reporting research involving human or animal subjects must include a reference to the ethical approval and code of practice adopted for the investigation. It is expected that reported research has been performed according to appropriate ethical and legal standards. The journal reserves the right not to publish studies that violate ethical and welfare issues and takes no responsibility for the breach of such rights by any reported research.
           </p>
         </div>
-      </section>
+      </section> */}
 
-      {/* Publication Ethics */}
+      {/* Publication Ethics 
       <section className="mb-8">
         <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-blue-900 mb-6 text-center">Publication Ethics</h2>
         <p className="text-base sm:text-lg text-gray-700 leading-relaxed text-justify">
           AJoT is committed to maintaining the highest standards of publication ethics and integrity. The journal follows guidelines established by the Committee on Publication Ethics (COPE). The editorial board takes measures to counteract scientific misconduct such as "ghostwriting" and "guest authorship".
           All authors are requested to disclose any actual or potential conflicts of interest and are required to complete an Authorship Declaration Form stating their contribution to the publication. The journal uses similarity-checking software to detect plagiarism, and manuscripts exceeding acceptable similarity limits will be rejected.
         </p>
-      </section>
+      </section>*/}
 
-      {/* Copyright Assignment */}
+      {/* Copyright Assignment 
       <section className="mb-8">
         <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-blue-900 mb-6 text-center">Copyright Assignment</h2>
         <p className="text-base sm:text-lg text-gray-700 leading-relaxed text-justify">
           Authors are required to submit a completed Copyright Assignment Form together with the revised edition of their manuscript. Upon publication, authors agree to have transferred the copyright to CIoTA Nigeria. Alternatively, the journal may operate under a Creative Commons license that allows others to share the work with an acknowledgement of the work's authorship and initial publication in AJoT.
         </p>
-      </section>
+      </section>*/}
 
-      {/* Page Charges and Subscription */}
+      {/* Page Charges and Subscription 
       <section className="mb-8">
         <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-blue-900 mb-6 text-center">Page Charges and Subscription</h2>
         <p className="text-base sm:text-lg text-gray-700 leading-relaxed text-justify mb-4">
@@ -86,9 +93,9 @@ const Preface = () => {
         <p className="text-base sm:text-lg text-gray-700 leading-relaxed text-justify">
           The corresponding author will receive one complimentary copy of the Journal and five paper reprints upon publication of the article. High-quality articles from authors with limited funding may apply for a waiver of publication charges, subject to approval by the editorial board.
         </p>
-      </section>
+      </section>*/}
 
-      {/* Instruction to Authors */}
+      {/* Instruction to Authors 
       <section className="mb-8">
         <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-blue-900 mb-6 text-center">Instruction to Authors</h2>
         
@@ -119,66 +126,65 @@ const Preface = () => {
             <li>8. Tables and figures should be embedded in the text and discussed immediately after presentation</li>
           </ol>
         </div>
-      </section>
+      </section>*/}
 
-      {/* Policy on Plagiarism */}
+      {/* Policy on Plagiarism 
       <section className="mb-8">
         <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-blue-900 mb-6 text-center">Policy on Plagiarism</h2>
         <p className="text-base sm:text-lg text-gray-700 leading-relaxed text-justify">
           Manuscripts with similarity indices exceeding 25% will be rejected. All submissions must include a similarity report from Turn-It-In or other checking software.
         </p>
       </section>
-
-      {/* Submission */}
+*/}
+      {/* Submission 
       <section className="mb-8">
         <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-blue-900 mb-6 text-center">Submission</h2>
         <p className="text-base sm:text-lg text-gray-700 leading-relaxed text-justify">
           Manuscripts should be submitted in MS Word format via email to the editorial office at: <span className="text-blue-600 font-semibold">msstephens@futa.edu.ng</span>
         </p>
-      </section>
+      </section>*/}
 
-      {/* Editorial Review */}
+      {/* Editorial Review 
       <section className="mb-8">
         <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-blue-900 mb-6 text-center">Editorial Review</h2>
         <p className="text-base sm:text-lg text-gray-700 leading-relaxed text-justify">
           Manuscripts when received will be acknowledged within 7 days. All manuscripts will undergo double-blind peer review by at least three referees. The first decision about the manuscript is provided approximately 14 days after submission, with a final decision undertaken approximately 120 days after submission. Online publication of accepted articles occurs approximately 180 days after submission.
         </p>
       </section>
-
-      {/* Page Proofs and Corrections */}
+*/}
+      {/* Page Proofs and Corrections 
       <section className="mb-8">
         <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-blue-900 mb-6 text-center">Page Proofs and Corrections</h2>
         <p className="text-base sm:text-lg text-gray-700 leading-relaxed text-justify">
           Page proofs will be sent to the corresponding author for checking prior to publication. Corrections at this stage are limited to essential alterations and printer errors. The corrected proof should be returned to the editor within 7 days. If this period is exceeded, the proof will be printed as the correct version.
         </p>
-      </section>
+      </section> */}
 
-      {/* Advertising Enquiries */}
+      {/* Advertising Enquiries 
       <section className="mb-8">
         <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-blue-900 mb-6 text-center">Advertising Enquiries</h2>
         <p className="text-base sm:text-lg text-gray-700 leading-relaxed text-justify">
           AJoT welcomes advertisements in its journal series. All advertising inquiries should be directed to the Editorial Office.
         </p>
-      </section>
+      </section> */}
 
       {/* Editorial Office */}
       <section className="mb-8">
-        <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-blue-900 mb-6 text-center">Editorial Office</h2>
+        <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-blue-900 mb-6 text-center">ADDRESS</h2>
         
         <div className="mb-6 text-center">
           <p className="text-base sm:text-lg text-gray-700 leading-relaxed">
-            <strong>Professor I. C. Ogwude</strong><br/>
+            <strong>Professor Musa I. Fodio</strong><br/>
             Editor-in-Chief<br/>
-            African Journal of Transport (AJoT)<br/>
-            Chartered Institute of Transport Administration of Nigeria (CIoTA)<br/>
-            Tonimas Estate, House 4, Opposite PHCN Power Station<br/>
-            Kubwa Expressway, Katampe-Abuja-FCT<br/>
+            ANUK Public Sector Accounting & Finance Journal(AJoT)<br/>
+            ANAN UNIVERSITY BUSINESS SCHOOL<br/>
+            14 Road, Off 1st Avenue<br/>
+            Gwarinpa, -Abuja-FCT<br/>
             Nigeria<br/>
-            Tel: +2348037060584<br/>
-            Email: <span className="text-blue-600 font-semibold">proficogwude@yahoo.com</span>
+            Email: <span className="text-blue-600 font-semibold">anukpsafj@gmail.com</span>
           </p>
         </div>
-
+{/*
         <div className="text-center">
           <p className="text-base sm:text-lg text-gray-700 leading-relaxed">
             <strong>Prof. M. S. Stephens</strong><br/>
@@ -186,7 +192,7 @@ const Preface = () => {
             Tel: +2348030862846<br/>
             Email: <span className="text-blue-600 font-semibold">msstephens@futa.edu.ng</span>
           </p>
-        </div>
+        </div>*/} 
       </section>
     </div>
   );

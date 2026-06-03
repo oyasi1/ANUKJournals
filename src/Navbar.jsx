@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { FaBars, FaTimes } from 'react-icons/fa';
 import { links, social } from './data';
-import logo from './ciota.svg';
+import ANUKlogo from './ANUKlogo.png';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -14,7 +14,7 @@ const Navbar = () => {
           
           {/* Logo and mobile menu button */}
           <div className="flex items-center">
-            <img src={logo} className="h-12 w-auto" alt="Logo" />
+            <img src={ANUKlogo} className="h-12 w-auto" alt="Logo" />
             </div>
             
             {/* Centered Desktop Navigation with Hover Scaling */}

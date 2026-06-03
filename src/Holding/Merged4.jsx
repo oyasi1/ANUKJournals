@@ -1,4 +1,4 @@
- import { useState } from 'react';
+import { useState } from 'react';
 
 
 const Merged4 = () => {
@@ -6,8 +6,8 @@ const Merged4 = () => {
   const [showPreview, setShowPreview] = useState(false);
   
   // PDF file in public folder
-  const pdfUrl = '/ilovepdf_merged 3.pdf';
-  const fileName = 'Impact of Logistics Out-sourcing Activities on the Organisational Performance of Nigerian Manufacturing Industry.pdf';
+  const pdfUrl = '/ANUK-pages-3_smallpdf.pdf';
+  const fileName = 'Tax Policy And Fiscal Sustainability In Nigeria.pdf';
 
   const handleDownload = () => {
     setIsDownloading(true);
@@ -46,17 +46,17 @@ const Merged4 = () => {
           {/* Content */}
           <div className="mt-4 text-center">
             <h2 className="text-xl sm:text-2xl font-bold text-gray-800">
-              Impact of Logistics Out-sourcing Activities on the Organisational Performance of Nigerian Manufacturing Industry.
+              Tax Policy And Fiscal Sustainability In Nigeria.
             </h2>
-            <h4>Vol. 1, No. 1, June 2024</h4>
+            <h4>Vol. 1, No. 1, September 2025</h4>
 
             <p className="mt-2 text-gray-600 text-sm sm:text-base">
-              Authors: C. U. Akpudo and Yoade Temitayo.
+              Authors: Ihemelandu Constance Obiageri.
             </p>
             <br />
-            <h4> <h4 className= "font-bold">Introduction:</h4> Logistics, which involves the flow of goods and services from the point of origin to the point
-of consumption, is part of supply chain management, whose core objective is to plan and
-execute supply chain activities to meet customer needs.......
+            <h4> <h4 className= "font-bold">Introduction:</h4> Tax policy is one of the primary tools that governments use to achieve fiscal sustainability and economic
+growth. In Nigeria, there have been various tax policies aimed at increasing revenue generation, promoting
+equity, and enhancing the country's economic stability........
 </h4>
           </div>
           

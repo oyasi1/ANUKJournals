@@ -1,4 +1,4 @@
-import logo from './ciota.svg';
+import ANUKlogo from './ANUKlogo.png';
 
 const Footer = () => {
     return (
@@ -30,7 +30,7 @@ const Footer = () => {
       <div>
         <div className="flex justify-center text-teal-600 lg:justify-start dark:text-teal-300">
          <img 
-          src={logo} 
+          src={ANUKlogo} 
           className="h-24 sm:h-32 md:h-40 w-auto" 
           alt="Logo" 
         />
@@ -40,10 +40,13 @@ const Footer = () => {
           className="mx-auto mt-6 max-w-md text-center leading-relaxed text-gray-500 lg:text-left dark:text-gray-400"
         >
           <h2 className="text-sm sm:text-base md:text-lg leading-tight">
-            Premier Transport Professional body, with the Responsibility of Advancing the Study,
+           THE OBJECTIVE OF THE JOURNAL,
           </h2>
           <h2 className="text-sm sm:text-base md:text-lg leading-tight">
-            Training and Regulating the Practice of Transport Management and Administration in Nigeria in all Ramifications
+            To provide a platform for researchers and academics to publish research papers and articles within the
+research domains of public sector accounting, public finance, public economics, environmental, oil and
+gas accounting, public financial management, taxation and fiscal policy, public policy and finance,
+macroeconomics and development, public treasury management, and other related areas.
           </h2>    
         </p>
       </div>

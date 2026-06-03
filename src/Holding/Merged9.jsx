@@ -6,8 +6,8 @@ const Merged9 = () => {
   const [showPreview, setShowPreview] = useState(false);
   
   // PDF file in public folder
-  const pdfUrl = '/ilovepdf_merged 8.pdf';
-  const fileName = 'The Challenges of Urban Mobility in Kogi State, Nigeria.pdf';
+  const pdfUrl = '/ANUK-pages-8_smallpdf.pdf';
+  const fileName = 'IMPACT OF HARMONIZATION AND CODIFICATION OF TAXES ON TAX COMPLIANCE AND REVENUE GENERATION IN NIGERIA.pdf';
 
   const handleDownload = () => {
     setIsDownloading(true);
@@ -46,17 +46,18 @@ const Merged9 = () => {
           {/* Content */}
           <div className="mt-4 text-center">
             <h2 className="text-xl sm:text-2xl font-bold text-gray-800">
-              The Challenges of Urban Mobility in Kogi State, Nigeria.
+              IMPACT OF HARMONIZATION AND CODIFICATION OF TAXES ON TAX COMPLIANCE AND REVENUE GENERATION IN NIGERIA.
             </h2>
-            <h4>Vol. 1, No. 1, June 2024</h4>
+            <h4>Vol. 1, No. 1, September 2025</h4>
 
             <p className="mt-2 text-gray-600 text-sm sm:text-base">
-              Authors: S. O. Olorunfemi, E. E. Okoko, & K. T. Gbadamosi.
+              Authors: UMENWOSU COLLINS OBUMNEME.
             </p>
             <br />
-            <h4> <h4 className= "font-bold">Introduction:</h4> Since immemorial, mobility across geographical space has been integral to human activity for
-leisure, comfort, and meeting other needs. People's needs are closely reflected in social,
-political, and economic interaction......
+            <h4> <h4 className= "font-bold">Introduction:</h4> Nigeria, like in many countries, tax revenues are a fundamental source of financing government
+activities, ensuring the smooth functioning of public institutions and the promotion of socio-economic
+growth. However, the effectiveness of tax systems in Nigeria, particularly at the state level, has been a
+subject of concern due to issues such as tax evasion, informality, and inefficient tax collection methods......
 </h4>
           </div>
           

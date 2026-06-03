@@ -6,8 +6,8 @@ const Merged7 = () => {
   const [showPreview, setShowPreview] = useState(false);
   
   // PDF file in public folder
-  const pdfUrl = '/ilovepdf_merged 6.pdf';
-  const fileName = 'Rail Passenger Satisfaction Factors: The Mediating Effect of Word of Mouth.pdf';
+  const pdfUrl = '/ANUK-pages-6_smallpdf.pdf';
+  const fileName = 'MODERATING EFFECT OF COMPANY INCOME TAX ON THE RELATIONSHIP BETWEEN CAPITAL STRUCTURE AND FINANCIAL PERFORMANCE OF LISTED MULTINATIONA COMPANIES IN NIGERIA.pdf';
 
   const handleDownload = () => {
     setIsDownloading(true);
@@ -46,19 +46,17 @@ const Merged7 = () => {
           {/* Content */}
           <div className="mt-4 text-center">
             <h2 className="text-xl sm:text-2xl font-bold text-gray-800">
-              Rail Passenger Satisfaction Factors: The Mediating Effect of Word of Mouth.
+              MODERATING EFFECT OF COMPANY INCOME TAX ON THE RELATIONSHIP BETWEEN CAPITAL STRUCTURE AND FINANCIAL PERFORMANCE OF LISTED MULTINATIONA COMPANIES IN NIGERIA.
             </h2>
-            <h4>Vol. 1, No. 1, June 2024</h4>
+            <h4>Vol. 1, No. 1, September 2025</h4>
 
             <p className="mt-2 text-gray-600 text-sm sm:text-base">
-              Authors: M. Olayiwola, M. G. Seyed, and R. O. Olorunnimbe.
+              Authors: C. D. MBATUEGWU, B. U. DAVID, and D. M. ZEINABA.
             </p>
             <br />
-            <h4> <h4 className="font-bold">Introduction:</h4> Effective transportation services can fulfil the needs of the entire population. According to a
-2015 study by the African Development Bank, rail transportation is expected to play an
-increasingly important role in delivering services over long distances. Railways are more
-effective in public transport networks for inter-city and metropolitan contexts than other
-modes of transportation....
+            <h4> <h4 className="font-bold">Introduction:</h4> This study examined the effect of capital structure on the financial performance of quoted multinational
+companies in Nigeria, with a particular focus on the moderating role of tax incentives and relief.
+Specifically.....
 </h4>
           </div>
           

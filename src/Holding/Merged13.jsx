@@ -1,12 +1,12 @@
- import { useState } from 'react'
+import { useState } from 'react';
 
-const DocPdf = () => {
+const ThirteenPdf = () => {
   const [isDownloading, setIsDownloading] = useState(false);
   const [showPreview, setShowPreview] = useState(false);
   
   // PDF file in public folder
-  const pdfUrl = '/ANUK-pages-1_smallpdf.pdf';
-  const fileName = 'Effect Of Tax Administration Efficiency On Tax Compliance Among Small And Medium Scale Enterprises In North Central Of Nigeria.pdf';
+  const pdfUrl = '/ANUK-pages-13_smallpdf.pdf';
+  const fileName = 'MACROECONOMIC RISK IMPLOSION ON MITIGATION STRATEGIES FOR DEVELOPMENT RECOVERY IN WAMZ MEMBER STATES.pdf';
 
   const handleDownload = () => {
     setIsDownloading(true);
@@ -45,20 +45,16 @@ const DocPdf = () => {
           {/* Content */}
           <div className="mt-4 text-center">
             <h2 className="text-xl sm:text-2xl font-bold text-gray-800">
-              Effect Of Tax Administration Efficiency On Tax Compliance Among Small And Medium Scale Enterprises In North Central Of Nigeria.
+              MACROECONOMIC RISK IMPLOSION ON MITIGATION STRATEGIES FOR DEVELOPMENT RECOVERY IN WAMZ MEMBER STATES.
             </h2>
-            <h4>Vol. 1, No. 1, September 2025</h4>
-
-            <p className="mt-2 text-gray-600 text-sm sm:text-base">
-              Authors: Abubakar Lamino Muhammad.
+            <h4>Vol. 1, No. 1, September 2025.</h4>
+           <p className="mt-2 text-gray-600 text-sm sm:text-base">
+              Authors: Prof. Tamunonimim NGEREBO-A and Dr. Anderson Emmanuel Oriakpono.
             </p>
             <br />
-            <h4> <h4 className= "font-bold">Introduction:</h4> This study investigated the Effect of Tax administration efficiency on Tax compliance among Small and
-Medium-sized Enterprises (SMEs) in North Central of Nigeria. The research focused on four key
-indicators of Tax administration efficiency: Electronic tax filing, Taxpayer education, Tax audit
-frequency, and Ease of registration, with Tax compliance as the Dependent variable. Employing a
-survey research design, the study targeted a population of 2,344 SMEs and analyzed responses from a
-final sample size of 375......
+            <h4> <h4 className= "font-bold">Introduction:</h4> This study examines the effect of risk implosion in West African Monetary Zone (WAMZ) member states on
+mitigating strategies for dynamic development from 2009 to 2024. Secondary data are sourced from credible
+institutions, including the World Bank, the International Monetary Fund (IMF), and national statistics offices.......
 </h4>
           </div>
           
@@ -114,7 +110,7 @@ final sample size of 375......
           
           {/* File info */}
           <div className="mt-4 text-center text-sm text-gray-500">
-            <p>File size: 368 KB • PDF format</p>
+            <p>File size: 483 KB • PDF format</p>
           </div>
         </div>
       </div>
@@ -122,4 +118,4 @@ final sample size of 375......
   );
 };
 
-export default DocPdf;
+export default ThirteenPdf;

@@ -31,22 +31,22 @@ export const links = [
 export const social = [
   {
     id: 1,
-    url: 'https://web.facebook.com/ciotanigeria.org',
+    url: '#',
     icon: <FaFacebook />,
   },
   {
     id: 2,
-    url: 'https://x.com/ciota_nigeria',
+    url: '#',
     icon: <FaTwitter />,
   },
   {
     id: 3,
-    url: 'https://ng.linkedin.com/in/ciota-nigeria-2b5793195',
+    url: '#',
     icon: <FaLinkedin />,
   },
 {
     id: 5,
-    url: 'https://www.youtube.com/@ciota_nigeria5420',
+    url: '#',
     icon: <TfiYoutube />
 },
 ];
